@@ -1,0 +1,61 @@
+
+================================================================================
+NAFLD CLINICAL ASSESSMENT REPORT
+================================================================================
+
+PATIENT INFORMATION:
+• Age: 32 years
+• Gender: Female
+• BMI: 22.5 kg/m²
+• Assessment Date: 2025-10-22 18:26:34
+
+PREDICTION RESULTS:
+• Primary Diagnosis: NASH (Severe NAFLD)
+• NASH Probability: 70.7%
+• Risk Level: HIGH
+• Confidence: 70.7%
+
+CLINICAL RISK FACTORS:
+• LDL: 110 (Status: Elevated, Severity: mild)
+
+MEDICAL RECOMMENDATIONS:
+
+LIFESTYLE MODIFICATIONS:
+• 🚨 IMMEDIATE dietary modifications to reduce hepatic fat accumulation
+• ⚖️ Target weight reduction of 7-10% through supervised caloric restriction
+• 🏃 Implement structured aerobic exercise program (150+ minutes/week)
+• 🚫 Complete alcohol cessation is critical for liver health
+• 😴 Prioritize stress management and adequate sleep (7-9 hours nightly)
+• 📊 Consider supervised intermittent fasting protocols
+
+DIETARY INTERVENTIONS:
+• 🥗 Adopt Mediterranean diet pattern with emphasis on whole, unprocessed foods
+• 🍬 Eliminate refined carbohydrates, added sugars, and high-fructose corn syrup
+• 🌾 Increase soluble fiber intake to 25-35g daily (oats, legumes, vegetables)
+• 🐟 Replace saturated fats with omega-3 rich foods (fatty fish, walnuts, flax)
+• 🥤 Eliminate sugar-sweetened beverages and fruit juices
+• 🍎 Focus on low-glycemic index foods to improve insulin sensitivity
+
+MEDICAL MANAGEMENT:
+• ⚠️ URGENT: Hepatologist consultation within 2-4 weeks
+• 🔬 Consider liver biopsy or advanced imaging (MRI/FibroScan) for staging
+• ❤️ Comprehensive cardiovascular disease screening (echo, stress test)
+• 💊 Optimize diabetes management if present (target HbA1c <7%)
+• 📅 Intensive monitoring every 3 months with liver function tests
+• 🩺 Screen for hepatitis B/C and autoimmune liver conditions
+
+SPECIFIC INTERVENTIONS BASED ON YOUR PROFILE:
+• 💊 Consider lipid-lowering therapy and cardiovascular protection.
+
+TOP 5 CONTRIBUTING FACTORS TO PREDICTION:
+• Total Cholesterol: (Importance: 0.098)
+• ALT: (Importance: 0.096)
+• Glucose: (Importance: 0.094)
+• LDL: (Importance: 0.093)
+• Body Mass Index: (Importance: 0.073)
+
+================================================================================
+CLINICAL DISCLAIMER:
+This assessment is based on machine learning analysis and should be used as clinical decision support only. 
+Always consult with a qualified healthcare professional for final diagnosis and treatment decisions.
+================================================================================

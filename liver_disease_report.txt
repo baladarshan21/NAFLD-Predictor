@@ -1,0 +1,59 @@
+
+==========================================================================================
+COMPREHENSIVE LIVER DISEASE ASSESSMENT REPORT
+==========================================================================================
+
+PATIENT INFORMATION:
+• Age: 26.0 years
+• Gender: Male
+• BMI: 35.0 kg/m²
+• Assessment Date: 2025-12-08 08:55:40
+
+CLINICAL PREDICTIONS:
+• Primary Classification: Non-Alcoholic Fatty Liver Disease
+• Liver Condition: NAFL (Mild)
+• NASH Probability: 45.3%
+• Overall Risk Level: MEDIUM
+• Alcohol Risk Level: MEDIUM
+• Confidence: 54.7%
+
+ALCOHOL-RELATED INDICATORS:
+• No significant alcohol-related indicators detected
+
+CLINICAL RISK FACTORS:
+• Body Mass Index: 35.0 (Elevated, Severity: moderate)
+
+
+COMPREHENSIVE TREATMENT RECOMMENDATIONS:
+
+LIFESTYLE MODIFICATIONS:
+• ✅ Maintain healthy weight within normal BMI
+• 💪 Continue regular exercise routine
+• 🧘 Practice stress management
+• ⚖️ Monitor weight trends
+
+DIETARY INTERVENTIONS:
+• 🥗 Continue healthy eating patterns
+• ⚖️ Maintain balanced nutrition
+• 💧 Stay adequately hydrated
+• 🍎 Emphasize whole foods
+
+MEDICAL MANAGEMENT:
+• 📅 Routine annual health check-ups
+• ✅ Continue preventive care measures
+• 👀 Monitor for new risk factors
+
+SPECIFIC INTERVENTIONS:
+• ⚖️ Urgent weight management program needed
+
+
+TOP CONTRIBUTING FACTORS:
+• Gender (Female=1, Male=2): 2.0 (Importance: 0.000)
+
+
+==========================================================================================
+CLINICAL DISCLAIMER:
+This assessment combines machine learning analysis with clinical decision support.
+Results should be interpreted by qualified healthcare professionals.
+Always consult with hepatologists and addiction specialists for comprehensive care.
+==========================================================================================

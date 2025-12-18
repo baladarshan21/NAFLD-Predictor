@@ -1,0 +1,9 @@
+{
+  "Age": 50,
+  "Gender (Female=1, Male=2)": 2,
+  "Body Mass Index": 30.1,
+  "AST": 80,
+  "ALT": 40,
+  "GGT": 90,
+  "Glucose": 110
+}
